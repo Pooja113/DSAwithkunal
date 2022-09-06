@@ -9,6 +9,7 @@
  - Simple Programs in javascript
  - Conditionals|loops|Switch Statements
  - Functions
+ - Array
  
- Working on Array
+ Working on Linear Search|Binary Search
  
