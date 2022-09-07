@@ -10,6 +10,7 @@
  - Conditionals|loops|Switch Statements
  - Functions
  - Array
+ - Linear Search|Binary Search|Binary Search Questions Videos
  
- Working on Linear Search|Binary Search
+ Working on assignment and Binary Search in 2D array
  
