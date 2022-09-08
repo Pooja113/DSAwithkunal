@@ -11,6 +11,7 @@
  - Functions
  - Array
  - Linear Search|Binary Search|Binary Search Questions Videos
+ -  Binary Search in 2D array
  
- Working on assignment and Binary Search in 2D array
+ Working on Binary Search Questions Assignment
  
