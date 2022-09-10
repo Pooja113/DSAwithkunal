@@ -12,6 +12,9 @@
  - Array
  - Linear Search|Binary Search|Binary Search Questions Videos
  -  Binary Search in 2D array
+ -  Done a few Binary Search Questions
  
- Working on Binary Search Questions Assignment
+ Moving forward with other concepts related to sorting
+ 
+ 
  
