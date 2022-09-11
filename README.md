@@ -7,14 +7,15 @@
  - Basics of Programming Languages
  - FlowCharts|Pseudocode
  - Simple Programs in javascript
- - Conditionals|loops|Switch Statements
+ - Conditionals | loops | Switch Statements
  - Functions
- - Array
- - Linear Search|Binary Search|Binary Search Questions Videos
- -  Binary Search in 2D array
- -  Done a few Binary Search Questions
+ - Array | Strings
+ - Linear Search | Binary Search | Binary Search in 2D array
+ - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort
+ - Pattern Questions
  
- Moving forward with other concepts related to sorting
+ Learning Recursion and time complexity
+ 
  
  
  
