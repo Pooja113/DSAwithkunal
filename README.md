@@ -1,4 +1,4 @@
-# dsawithkunal
+# dsawithkunal and Aditya Verma Videos
 
  I am learning DSA while using javascript.
  
@@ -13,8 +13,18 @@
  - Linear Search | Binary Search | Binary Search in 2D array
  - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort
  - Pattern Questions
+ - Time Complexity
+ - Bitwise Operator 
  
- Learning Recursion and time complexity
+ 
+ Learning Recursion | Maths for DSA | OOPs Concepts
+ 
+# Concepts from Aditya Verma Playlists
+- Binary Search questions
+- Missing and Duplicate Numbers from 1 to n(Cyclic Sort)
+
+Working on DP and Sliding Window Algorithm
+ 
  
  
  
