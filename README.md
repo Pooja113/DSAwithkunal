@@ -16,14 +16,18 @@
  - Time Complexity
  - Bitwise Operator 
  
- 
- Learning Recursion | Maths for DSA | OOPs Concepts
+ Learning Recursion also referencing Aditya verma videosfor the same topic | Maths for DSA | OOPs Concepts
+ also merge and quick sort
  
 # Concepts from Aditya Verma Playlists
 - Binary Search questions
 - Missing and Duplicate Numbers from 1 to n(Cyclic Sort)
 
 Working on DP and Sliding Window Algorithm
+
+# Revising MERN basics | JS basics Previous Projects
+- Referencing Codevolution videos for react and react hooks and Akshay Saini for JS
+
  
  
  
