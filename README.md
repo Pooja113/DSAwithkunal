@@ -17,7 +17,7 @@
  - Bitwise Operator 
  
  Learning Recursion also referencing Aditya verma videosfor the same topic | Maths for DSA | OOPs Concepts
- also merge and quick sort
+ Linked List 
  
 # Concepts from Aditya Verma Playlists
 - Binary Search questions
