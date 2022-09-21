@@ -4,19 +4,16 @@
  
  Done with the following topics:
  - Git|Github Tutorial
- - Basics of Programming Languages
- - FlowCharts|Pseudocode
+ - Basics of Programming Languages | FlowCharts | Pseudocode
  - Simple Programs in javascript
- - Conditionals | loops | Switch Statements
- - Functions
- - Array | Strings
+ - Conditionals | loops | Switch Statements | Functions | Array | Strings | OOPs Concepts
  - Linear Search | Binary Search | Binary Search in 2D array
- - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort
+ - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort | Quick Sort
  - Pattern Questions
  - Time Complexity
  - Bitwise Operator 
  
- Learning Recursion also referencing Aditya verma videosfor the same topic | Maths for DSA | OOPs Concepts
+ Learning Recursion also referencing Aditya verma videos for the same topic | Maths for DSA 
  Linked List 
  
 # Concepts from Aditya Verma Playlists
