@@ -8,7 +8,7 @@
  - Simple Programs in javascript
  - Conditionals | loops | Switch Statements | Functions | Array | Strings | OOPs Concepts
  - Linear Search | Binary Search | Binary Search in 2D array
- - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort | Quick Sort
+ - Bubble Sort | Selection Sort | Insertion Sort | Cyclic Sort | Quick Sort | Merge Sort
  - Pattern Questions
  - Time Complexity
  - Bitwise Operator 
