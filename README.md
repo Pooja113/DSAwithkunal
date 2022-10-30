@@ -23,7 +23,8 @@
 Working on DP and Sliding Window Algorithm
 
 # Revising MERN basics | JS basics Previous Projects
-- Referencing Codevolution videos for react and react hooks and Akshay Saini for JS
+- Referencing Codevolution videos for react and react hooks and 
+- Akshay Saini for JS learnt about closures | Event Loop | Execution Context | Promises | Callbacks 
 
  
  
